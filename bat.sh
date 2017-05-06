@@ -1,0 +1,3 @@
+#!/bin/usr
+echo `pwd`
+
